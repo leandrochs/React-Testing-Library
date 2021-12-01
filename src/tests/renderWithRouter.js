@@ -13,3 +13,6 @@ function renderWithRouter(component) {
 }
 
 export default renderWithRouter;
+
+// Referência: Aula 14.3
+// https://github.com/tryber/sd-016-b-live-lectures/blob/lecture/14.3/portfolio/src/tests/renderWithRouter.js
